@@ -4,5 +4,5 @@ This repo contains Jupyter notebooks constructed for basic python practice (requ
 
 This is the 4th course in the 9 course specialization offered by **IBM on Coursera**. You can check out the course here: https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science
 
-##Dependencies
+## Dependencies
 Pandas, Numpy
